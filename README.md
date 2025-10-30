@@ -1,10 +1,26 @@
-# 🛡️ HanamantPotaraddi-Portfolio  
-**Professional Cybersecurity Portfolio** showcasing SOC projects, certifications, and hands-on experience in **IBM QRadar, Splunk, Threat Hunting, and Incident Response.**
+# 🛡️ Hanamant Potaraddi – Cybersecurity Portfolio  
+**Professional Portfolio** showcasing hands-on experience in **Security Operations, Threat Detection, Incident Response, and SIEM Tools (IBM QRadar & Splunk).**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hemat143&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
 ## 👋 Hi, I'm Hanamant Potaraddi  
-🎯 **Security Operations Analyst | CEH Master | SOC Enthusiast**
+🎯 **Entry-Level SOC Analyst | CEH Master (v13 + AI) | Threat Hunter**
+
+---
+
+## 🏅 Badges & Certifications  
+
+![CEH Master](https://img.shields.io/badge/CEH%20Master-EC--Council-red?style=for-the-badge&logo=hackthebox)  
+![CEH Practical](https://img.shields.io/badge/CEH%20Practical-EC--Council-darkred?style=for-the-badge)  
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-SIEM-blue?style=for-the-badge&logo=ibm)  
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)  
+![TryHackMe](https://img.shields.io/badge/TryHackMe-CTF%20Learner-red?style=for-the-badge&logo=tryhackme)  
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)  
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnu-bash)  
+![NIST](https://img.shields.io/badge/NIST-Framework-orange?style=for-the-badge)  
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-Compliance-lightgrey?style=for-the-badge)
 
 ---
 
@@ -44,10 +60,15 @@ Executed **threat hunting operations** using **AQL and SPL queries**, mapping fi
 
 ## 🏆 Certifications  
 
-- EC-Council **Certified Ethical Hacker (CEH v13) Master**  
-- EC-Council **CEH Practical**  
-- EC-Council **CEH v13 (Theory)**  
+🎓 **EC-Council Certifications**  
+- Certified Ethical Hacker (**CEH v13**)  
+- CEH **Practical**  
+- CEH **Master (v13 + AI)**  
+
+🛡️ **Other Certifications**  
 - **Hacker School Certified Cyber Security Professional (HSCCSP)** – *July 2025*  
+- **IBM QRadar Fundamentals (Practice-based)**  
+- **Splunk for Security Operations (Hands-on Lab)**  
 
 ---
 
