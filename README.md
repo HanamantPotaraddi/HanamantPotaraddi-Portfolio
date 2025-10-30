@@ -70,7 +70,7 @@ Executed **threat hunting** operations using AQL and SPL queries, mapping to **M
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/hanamantpotaraddi24)  
-- 💻 [GitHub](https://github.com/Hemat143)  
+- 💻 [GitHub](https://github.com/HanamantPotaraddi/HanamantPotaraddi-Portfolio)
 - ✉️ hanamanthpotaraddi360@gmail.com  
 
 ---
