@@ -1,14 +1,17 @@
-# HanamantPotaraddi-Portfolio
-Professional Cybersecurity Portfolio showcasing SOC projects, certifications, and hands-on experience in IBM QRadar, Splunk, Threat Hunting, and Incident Response.
-# 👋 Hi, I'm Hanamant Potaraddi  
+# 🛡️ HanamantPotaraddi-Portfolio  
+**Professional Cybersecurity Portfolio** showcasing SOC projects, certifications, and hands-on experience in **IBM QRadar, Splunk, Threat Hunting, and Incident Response.**
+
+---
+
+## 👋 Hi, I'm Hanamant Potaraddi  
 🎯 **Security Operations Analyst | CEH Master | SOC Enthusiast**
 
 ---
 
 ## 🧩 About Me  
-I’m an **Entry-Level SOC Analyst** with hands-on experience in **security monitoring, log and network analysis, and incident response**.  
-Skilled in **IBM QRadar** and **Splunk**, with a strong understanding of **threat hunting, SIEM operations, and MITRE ATT&CK mapping**.  
-Currently expanding my knowledge through **CTF challenges on TryHackMe** and **real-world SOC automation projects**.
+I’m an **Entry-Level SOC Analyst** with hands-on experience in **security monitoring, log and network analysis, and incident response.**  
+Skilled in **IBM QRadar** and **Splunk**, with a strong understanding of **threat hunting, SIEM operations, and MITRE ATT&CK mapping.**  
+Currently expanding my knowledge through **CTF challenges on TryHackMe** and **real-world SOC automation projects.**
 
 ---
 
@@ -26,16 +29,16 @@ Currently expanding my knowledge through **CTF challenges on TryHackMe** and **r
 ## 🧑‍💻 Projects  
 
 ### 🧱 Security Operations & Monitoring  
-Configured and monitored security events in **IBM QRadar** and **Splunk**, detecting anomalies, brute-force attempts, and insider threats.
+Configured and monitored **security events** in **IBM QRadar** and **Splunk**, detecting anomalies, brute-force attempts, and insider threats.
 
 ### 🕵️ Incident Investigation & Correlation  
 Performed **end-to-end investigations**, correlating alerts, identifying **IOCs**, and escalating verified incidents for remediation.
 
 ### 📊 Detection Engineering  
-Built **custom detection rules, dashboards, and reports** for phishing, malware, and privilege escalation events, improving SOC visibility and efficiency.
+Built **custom detection rules, dashboards, and reports** for phishing, malware, and privilege escalation activities, improving **SOC visibility** and **incident response efficiency.**
 
 ### ⚔️ Threat Hunting & Analysis  
-Executed **threat hunting** operations using AQL and SPL queries, mapping to **MITRE ATT&CK** to uncover hidden threats.
+Executed **threat hunting operations** using **AQL and SPL queries**, mapping findings to the **MITRE ATT&CK framework** to uncover hidden threats.
 
 ---
 
@@ -44,7 +47,7 @@ Executed **threat hunting** operations using AQL and SPL queries, mapping to **M
 - EC-Council **Certified Ethical Hacker (CEH v13) Master**  
 - EC-Council **CEH Practical**  
 - EC-Council **CEH v13 (Theory)**  
-- **Hacker School Certified Cyber Security Professional (HSCCSP)** – July 2025  
+- **Hacker School Certified Cyber Security Professional (HSCCSP)** – *July 2025*  
 
 ---
 
@@ -53,25 +56,25 @@ Executed **threat hunting** operations using AQL and SPL queries, mapping to **M
 **Cybersecurity Intern (SOC & CSP)** – *Hacker School (Cartel Software Pvt. Ltd.)*  
 📅 *Jan 2025 – Jul 2025*  
 
-- Gained hands-on experience in **Network Security, SOC Operations, and Incident Response** using **QRadar** and **Splunk**.  
-- Performed **VAPT**, analyzed firewall/IDS logs, and implemented **incident response workflows**.  
-- Automated repetitive SOC tasks with **Python and Bash scripting**.  
+- Gained hands-on experience in **Network Security, SOC Operations, and Incident Response** using **QRadar and Splunk.**  
+- Performed **VAPT**, analyzed **firewall/IDS logs**, and implemented **incident response workflows.**  
+- Automated **repetitive SOC tasks** using **Python and Bash scripting.**
 
 ---
 
 ## 🚀 Ongoing Learning  
 
-- Practicing **CTF challenges** on [TryHackMe](https://tryhackme.com/)  
-- Exploring **SOC Automation & SIEM Rule Tuning**  
-- Studying **Cloud Security and Threat Intelligence**  
+- Practicing **CTF challenges** on [TryHackMe](https://tryhackme.com)  
+- Exploring **SOC Automation** and **SIEM Rule Tuning**  
+- Studying **Cloud Security** and **Threat Intelligence**
 
 ---
 
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/hanamantpotaraddi24)  
-- 💻 [GitHub](https://github.com/HanamantPotaraddi/HanamantPotaraddi-Portfolio)
-- ✉️ hanamanthpotaraddi360@gmail.com  
+- 💻 [GitHub](https://github.com/Hemat143)  
+- ✉️ **hanamanthpotaraddi360@gmail.com**
 
 ---
 
