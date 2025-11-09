@@ -1,226 +1,276 @@
-# ```HANAMANT POTARADDI```
-### `> Cybersecurity Professional | Security Operations Analyst`
+# 🛡️ HANAMANT POTARADDI
 
 ```ascii
-██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
-███████║███████║██║     █████╔╝ █████╗  ██████╔╝
-██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
-██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+   _____ ______ _____ _    _ _____  _____ _________     __
+  / ____|  ____/ ____| |  | |  __ \|_   _|__   __\ \   / /
+ | (___ | |__ | |    | |  | | |__) | | |    | |   \ \_/ / 
+  \___ \|  __|| |    | |  | |  _  /  | |    | |    \   /  
+  ____) | |___| |____| |__| | | \ \ _| |_   | |     | |   
+ |_____/|______\_____|\____/|_|  \_\_____|  |_|     |_|   
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=HanamantPotaraddi&color=green&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanamantpotaraddi24)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hanamanthpotarad27)
-[![Email](https://img.shields.io/badge/-Email-00FF00?style=flat-square&logo=gmail&logoColor=black)](mailto:hanamanthpotaraddi360@gmail.com)
+### 🔐 Cybersecurity Professional | SOC Analyst | CEH Master 🔐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanamantpotaraddi24)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hanamanthpotarad27)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanamantPotaraddi)
+
+```bash
+root@kali:~$ whoami
+> Entry-Level Cybersecurity Professional | SOC Analyst
+> CEH Master (v13 + AI) | CEH Practical Certified
+> Specialized in Security Monitoring, Incident Response & Threat Detection
+```
 
 </div>
 
 ---
 
-## `$ whoami`
+## 📡 SYSTEM.STATUS
+
+```bash
+[✓] Status: ACTIVE
+[✓] Location: Bengaluru, Karnataka, India
+[✓] Email: hanamanthpotaraddi360@gmail.com
+[✓] Phone: +91-96322-18368
+[⚡] Mode: Threat Hunting & Vulnerability Assessment
+```
+
+---
+
+## 🎯 ABOUT.ME
 
 ```python
-class CyberSecurityProfessional:
+class CybersecurityAnalyst:
     def __init__(self):
         self.name = "Hanamant Potaraddi"
         self.role = "SOC Analyst | Penetration Tester"
-        self.location = "Bengaluru, Karnataka, India"
-        self.education = "Bachelor of Computer Applications (2021-2025)"
-        self.cgpa = 7.32
-        
-    def certifications(self):
-        return [
-            "EC-Council Certified Ethical Hacker (CEHv13) Master",
-            "EC-Council Certified Ethical Hacker (CEHv13) Practical",
-            "EC-Council Certified Ethical Hacker (CEHv13)",
-            "Hacker School Certified Cyber Security Professional (HSCCSP) - Jul 2025"
+        self.focus = [
+            "Security Monitoring",
+            "Incident Response", 
+            "Vulnerability Assessment",
+            "Threat Detection",
+            "MITRE ATT&CK Mapping"
         ]
+        self.tools = {
+            "SIEM": ["Splunk", "IBM QRadar"],
+            "PenTest": ["Metasploit", "Burp Suite", "Nmap"],
+            "WebApp": ["OWASP ZAP", "sqlmap", "Nikto"],
+            "Network": ["Wireshark", "Nessus"]
+        }
     
-    def current_focus(self):
-        return [
-            "Security Operations & Monitoring",
-            "Vulnerability Assessment & Penetration Testing",
-            "Incident Response & Threat Detection",
-            "SIEM Tools (Splunk, QRadar)",
-            "MITRE ATT&CK Framework"
-        ]
+    def mission(self):
+        return "Strengthening enterprise security posture and responding to evolving cyber threats"
 ```
 
 ---
 
-## `# whoami.txt`
+## 🏆 CERTIFICATIONS.DB
 
-> **Entry-Level Cybersecurity Professional and SOC Analyst**, CEH Master (v13 + AI) and CEH Practical certified, with hands-on experience in security monitoring, incident response, vulnerability assessment, and threat detection. Skilled in SIEM tools (Splunk, QRadar), MITRE ATT&CK mapping, and dedicated to strengthening enterprise security posture and responding effectively to evolving cyber threats.
+```diff
++ EC-Council Certified Ethical Hacker (CEHv13) Master
++ EC-Council Certified Ethical Hacker (CEHv13) Practical  
++ EC-Council Certified Ethical Hacker (CEHv13)
++ Hacker School Certified Cyber Security Professional (HSCCSP) - Jul 2025
+```
+
+🔖 **Achievement Unlocked**: CEH Master with AI Integration (v13)
 
 ---
 
-## `> cat experience.log`
+## 💼 EXPERIENCE.LOG
 
-### **Cybersecurity Intern (CSP + SOC)** | Hacker School (Cartel Software Pvt. Ltd.)
-**`[January 2025 - July 2025]`**
+### 🔐 Cybersecurity Intern (CSP + SOC)
+**Hacker School (Cartel Software Pvt. Ltd.)** | *January 2025 - July 2025*
 
 ```bash
-[+] Completed hands-on internship covering Network Security, Vulnerability Management, 
-    Penetration Testing, and Security Operations using Splunk and IBM QRadar
+> Network Security & Vulnerability Management
+> Penetration Testing (Web, Network, Active Directory)
+> Security Operations with Splunk & IBM QRadar
+> Linux Administration & System Hardening
+> Threat Intelligence & Incident Response
+```
 
-[+] Gained practical experience in Linux Administration, Active Directory Pentesting, 
-    Web & Mobile Application Security, and Threat Intelligence
+**Key Achievements:**
+- ✅ Conducted Network & Web Application VAPT
+- ✅ Analyzed firewall/IDS logs and implemented incident response workflows
+- ✅ Developed Python & Bash scripts for log analysis automation
+- ✅ Strengthened SOC skills following NIST & ISO 27001 frameworks
+- ✅ Worked with Cryptography, Wi-Fi Security & Cloud Security
 
-[+] Conducted Network and Web Application VAPT, analyzed firewall/IDS logs, and 
-    implemented incident response workflows
+---
 
-[+] Worked with Cryptography, Wi-Fi Security, and Cloud Security aligned with CEH 
-    exam objectives and enterprise security standards
+## 🛠️ TECHNICAL.ARSENAL
 
-[+] Developed Python and Bash scripts to automate log analysis, alert triage, 
-    and vulnerability scanning tasks
+### 🔴 Offensive Security
+```
+Penetration Testing | Vulnerability Assessment | Exploit Development
+Web Application Security | Network Penetration | Active Directory Attacks
+```
 
-[+] Strengthened SOC-level skills in monitoring, detection, and mitigation of 
-    cyber threats following NIST and ISO 27001 frameworks
+**Tools:** `Metasploit` `Burp Suite` `Nmap` `Nessus` `Wireshark` `Nikto` `sqlmap` `OWASP ZAP`
+
+### 🟢 Defensive Security
+```
+Security Monitoring | Incident Response | Threat Hunting
+Log Analysis | SIEM Management | Threat Intelligence
+```
+
+**Tools:** `IBM QRadar` `Splunk` `MITRE ATT&CK` `IDS/IPS`
+
+### 💻 System Administration
+```
+Linux Administration | File Permissions | Process Control
+User/Group Management | Command-Line Operations
+```
+
+### 🔐 Security Frameworks
+```
+ISO 27001 | NIST | GDPR | HIPAA | PCI-DSS | OWASP Top 10
+```
+
+### 🐍 Scripting & Automation
+```python
+Python | Bash | Automated Log Analysis | Alert Triage | Vulnerability Scanning
 ```
 
 ---
 
-## `$ ls -la skills/`
+## 🎯 PROJECTS.VAULT
 
-### **⚡ Cybersecurity & Network Security**
-```
-└── Vulnerability Assessment & Penetration Testing (Web, Network, Active Directory)
-└── Threat Analysis & Incident Response
-└── Tools: Burp Suite | Metasploit | Nmap | Nessus | Wireshark | Nikto
-```
-
-### **🐧 Operating Systems & Administration**
-```
-└── Linux System Administration
-└── File Permissions | User/Group Management | Process Control
-└── Command-Line Operations & Shell Scripting
+### 🔴 Advanced Penetration Testing (CEH Master)
+```bash
+[+] Executed end-to-end penetration testing & VAPT
+[+] Tested network and web applications
+[+] Identified critical vulnerabilities
+[+] Delivered actionable remediation plans
 ```
 
-### **🛡️ Security Operations & Monitoring**
-```
-└── SIEM Tools: IBM QRadar | Splunk
-└── Log/Flow Analysis | Offense Management | Alert Generation
-└── Real-time Threat Detection & Monitoring
-```
-
-### **🌐 Web & Application Security**
-```
-└── OWASP Top 10 Vulnerabilities
-└── Authentication Bypass | SQLi | XSS | File Inclusion Testing
-└── Tools: OWASP ZAP | sqlmap | wafw00f
+### 🟢 Security Operations & Monitoring
+```bash
+[+] Configured & monitored IBM QRadar and Splunk
+[+] Analyzed logs to detect anomalies
+[+] Identified brute-force attempts, phishing & insider threats
 ```
 
-### **🔐 Cryptography & Compliance**
+### 🔍 Incident Investigation & Correlation
+```bash
+[+] Performed incident investigations
+[+] Correlated alerts and identified IOCs
+[+] Escalated verified incidents for remediation
 ```
-└── Encryption Algorithms | SSL/TLS | Hashing
-└── Standards: ISO 27001 | GDPR | HIPAA | PCI-DSS
-└── Risk Governance & Compliance Frameworks
+
+### 🎮 Capture The Flag (CTF) - TryHackMe
+```bash
+[+] Engaged in CTF challenges
+[+] Strengthened SOC analysis skills
+[+] Enhanced incident response capabilities
+[+] Improved threat detection techniques
 ```
 
 ---
 
-## `> ./projects.sh --execute`
+## 🎓 EDUCATION.SYS
 
-### **🎯 Advanced Penetration Testing (CEH Master)**
-```terminal
-[*] Executed end-to-end penetration testing and VAPT across network and web applications
-[*] Identified critical vulnerabilities and delivered actionable remediation plans
-[✓] Status: COMPLETED
+```
+┌─[Bachelor of Computer Applications]
+│ 
+├──> 📅 Duration: 2021 - 2025
+├──> 📊 CGPA: 7.32
+└──> 🏛️ Shri S.R. Kanthi Degree College, Mudhol
 ```
 
-### **📊 Security Operations & Monitoring**
-```terminal
-[*] Configured and monitored security events in IBM QRadar and Splunk
-[*] Analyzed logs to detect anomalies, brute-force attempts, phishing, and insider threats
-[✓] Status: ACTIVE
 ```
-
-### **🔍 Incident Investigation & Correlation**
-```terminal
-[*] Performed incident investigations by correlating alerts
-[*] Identified Indicators of Compromise (IOCs)
-[*] Escalated verified incidents for remediation
-[✓] Status: OPERATIONAL
-```
-
-### **🚩 Capture The Flag (CTF) Practice**
-```terminal
-[*] Engaged in CTF challenges on TryHackMe
-[*] Strengthened hands-on skills in SOC analysis, incident response, and threat detection
-[✓] Status: ONGOING
+┌─[Pre-University Course (PUC)]
+│ 
+├──> 📅 Duration: 2019 - 2021
+└──> 🏛️ M.K. PU Commerce & Arts College, Mudhol
 ```
 
 ---
 
-## `# cat /var/log/achievements.log`
-
-```log
-[2025] ✓ EC-Council Certified Ethical Hacker (CEHv13) Master
-[2025] ✓ EC-Council Certified Ethical Hacker (CEHv13) Practical
-[2025] ✓ EC-Council Certified Ethical Hacker (CEHv13)
-[2025] ✓ Hacker School Certified Cyber Security Professional (HSCCSP) - Jul 2025
-[2025] ✓ Cybersecurity Intern - Hacker School (Cartel Software Pvt. Ltd.)
-[2025] ✓ Bachelor of Computer Applications - CGPA: 7.32
-```
-
----
-
-## `$ netstat -connections`
+## 📊 GITHUB.STATS
 
 <div align="center">
 
-| **PROTOCOL** | **LINK** | **STATUS** |
-|:------------:|:--------:|:----------:|
-| 📧 Email | [hanamanthpotaraddi360@gmail.com](mailto:hanamanthpotaraddi360@gmail.com) | `ACTIVE` |
-| 💼 LinkedIn | [linkedin.com/in/hanamantpotaraddi24](https://linkedin.com/in/hanamantpotaraddi24) | `ACTIVE` |
-| 🚩 TryHackMe | [tryhackme.com/p/hanamanthpotarad27](https://tryhackme.com/p/hanamanthpotarad27) | `ACTIVE` |
-| 📱 Phone | +91-96322-18368 | `ACTIVE` |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanamantPotaraddi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanamantPotaraddi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanamantPotaraddi&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
 </div>
 
 ---
 
-## `> ./status.sh`
+## 🔥 SKILL.MATRIX
+
+```
+Cybersecurity          ████████████████████  100%
+Penetration Testing    ██████████████████░░   90%
+Security Operations    ██████████████████░░   90%
+SIEM Management        █████████████████░░░   85%
+Incident Response      █████████████████░░░   85%
+Threat Intelligence    ████████████████░░░░   80%
+Linux Administration   ████████████████░░░░   80%
+Web App Security       ███████████████░░░░░   75%
+Scripting (Python)     ███████████████░░░░░   75%
+```
+
+---
+
+## 📫 CONNECT.PROTOCOL
+
+<div align="center">
 
 ```bash
-#!/bin/bash
-
-echo "[+] Initializing Security Professional Status..."
-echo "[+] Current Location: Bengaluru, Karnataka, India"
-echo "[+] Role: Cybersecurity Professional | SOC Analyst"
-echo "[+] Specialization: Penetration Testing, VAPT, Incident Response"
-echo "[+] Tools: Splunk | QRadar | Burp Suite | Metasploit | Nmap | Wireshark"
-echo "[+] Frameworks: MITRE ATT&CK | NIST | ISO 27001"
-echo "[+] Status: [ READY TO SECURE YOUR INFRASTRUCTURE ]"
-echo ""
-echo "======================================================"
-echo "  🔒 FORTIFYING CYBERSPACE, ONE THREAT AT A TIME 🔒"
-echo "======================================================"
+┌──(root💀kali)-[~/contact]
+└─$ cat contact.txt
 ```
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [hanamanthpotaraddi360@gmail.com](mailto:hanamanthpotaraddi360@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/hanamantpotaraddi24](https://linkedin.com/in/hanamantpotaraddi24) |
+| 💻 GitHub | [github.com/HanamantPotaraddi](https://github.com/HanamantPotaraddi) |
+| 🎯 TryHackMe | [tryhackme.com/p/hanamanthpotarad27](https://tryhackme.com/p/hanamanthpotarad27) |
+| 📱 Phone | +91-96322-18368 |
+
+</div>
 
 ---
 
 <div align="center">
 
-### `> echo "Let's secure the digital world together"`
-
-**💚 Open to collaboration | 🚀 Always learning | 🛡️ Defending against cyber threats**
-
 ```
-┌──(hanamant㉿kali)-[~/cybersecurity]
-└─$ sudo ./defend_and_secure.sh
-[✓] System secured. Ready for engagement.
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  "The only truly secure system is one that is powered    ║
+║   off, cast in a block of concrete and sealed in a       ║
+║   lead-lined room with armed guards."                    ║
+║                                        - Gene Spafford    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-![Green Matrix](https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif)
+### 🔐 Stay Secure | Think Like a Hacker | Defend Like a Pro 🔐
+
+![Visitor Count](https://profile-counter.glitch.me/HanamantPotaraddi/count.svg)
+
+```bash
+[+] System scan complete
+[+] No vulnerabilities detected
+[+] Thank you for visiting!
+```
+
+</div>
 
 ---
 
-**⚡ "In cybersecurity, you're either the hunter or the hunted. Choose wisely." ⚡**
+<div align="center">
+
+**⚡ Built with 💚 by Hanamant Potaraddi | Cybersecurity Professional ⚡**
 
 </div>
